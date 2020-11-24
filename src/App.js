@@ -35,7 +35,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          NoSleep.js example
+          NoSleep.js initial example
         </a>
       </header>
     </div>

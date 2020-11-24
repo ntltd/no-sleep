@@ -1,7 +1,10 @@
 {
-  "name": "no-sleep",
-  "version": "0.1.0",
+  "name": "no-sleep-react-example",
+  "version": "0.0.1",
   "private": true,
+  "author": "Nicolas Taltaud",
+  "license": "MIT",
+  "description": "Prevent display sleep and enable wake lock in any Android or iOS web browser with React and NoSleep.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
