@@ -1,6 +1,8 @@
 # NoSleep.js x React example
 A React working example of [NoSleep.js](https://richtr.github.io/NoSleep.js/example/).
 
+Try the [live example](https://no-sleep.ntltd.vercel.app/).
+
 ## Get started
 ```
 yarn install
